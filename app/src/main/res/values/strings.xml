@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BusinessCardApps</string>
+    <string name="name">Ryo Yamagiwa</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phone_number">080-0000-1111</string>
+    <string name="share">\@AndroidDev</string>
+    <string name="email_address">android_developer0930@gmail.com</string>
 </resources>
